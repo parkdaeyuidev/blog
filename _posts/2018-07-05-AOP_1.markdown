@@ -7,6 +7,10 @@ img: software.jpg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
-#AOP란?
+#AOP
 
-저도 궁금합니다.
+- Aspect
+- Oriented
+- Programming
+
+기능을 핵심 비지니스 로직과 공통 모듈로 구분하고, 핵심로직에 영향을 미치지 않고 사이사이에 공통 모듈을 효과적으로 잘 끼워넣도록 하는 개발 방법입니다. 
