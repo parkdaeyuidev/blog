@@ -1,0 +1,12 @@
+---
+layout: post
+title: AOP란 무엇일까요?
+date: 2018-07-05 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: software.jpg # Add image post (optional)
+tags: [Productivity, Software] # add tag
+---
+
+#AOP란?
+
+저도 궁금합니다.
